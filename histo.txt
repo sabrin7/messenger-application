@@ -1,0 +1,15 @@
+     1          JOIN          1          0          
+     1          SEND          1          1          
+     1          QUIT          1          0          
+     1          JOIN          1          0          
+     1          JOIN          1          0          
+     1          SEND          1          1          
+     1          SEND          1          1          
+     1          RECV         1          None          
+     1          RECV         1          None          
+     1          SEND          1          1          
+     1          SEND          1          *          
+     1          QUIT          1          0          
+     1          QUIT          1          0          
+     1          QUIT          1          0          
+     1          QUIT          1          0          
